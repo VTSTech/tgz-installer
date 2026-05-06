@@ -1,7 +1,7 @@
 {
   "name": "@vtstech/pi-tgz-installer",
   "version": "1.0.2",
-  "description": "Pi extension that does one thing and does it well. Installs pi-packages from .tgz archives. Adds /tgz-install command for installing Pi packages from .tgz URLs or local files",
+  "description": "Pi extension that adds /tgz-install command for installing Pi packages from .tgz URLs or local files",
   "main": "tgz-installer.js",
   "type": "module",
   "keywords": [
